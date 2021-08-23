@@ -13,7 +13,7 @@ pip install requests
 pip install pysqlite3
 ```
 
-Para utiliar o script é necessário apenas rodas o comando
+Para utiliar o script é necessário apenas rodar o comando
 
 ```
 python main.py
